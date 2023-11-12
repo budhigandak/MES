@@ -48,7 +48,7 @@ onUnmounted(() => {
         <div class="row">
           <div class="col-lg-7 text-center mx-auto position-relative">
             <h1
-              class="text-white pt-3 mt-n5 me-2"
+              class="text-white pt-3 mt-6 me-2"
               :style="{ display: 'inline-block ' }"
             >
               Mangalam Easy Services
@@ -62,7 +62,7 @@ onUnmounted(() => {
     </div>
   </Header>
 
-  <div class="card card-body blur shadow-blur mx-3 mx-md-4 mt-n6">
+  <div class="card card-body blur shadow-blur mx-3 mx-md-4 mt-3">
     <PresentationCounter />
     <PresentationInformation />
 
