@@ -13,6 +13,8 @@ import MaterialSocialButton from "@/components/MaterialSocialButton.vue";
 // sections
 import PresentationCounter from "./Sections/PresentationCounter.vue";
 import PresentationInformation from "./Sections/PresentationInformation.vue";
+import PresentationPages from "./Sections/PresentationPages.vue";
+import PresentationExample from "./Sections/PresentationExample.vue";
 
 //images
 import vueMkHeader from "@/assets/img/vue-mk-header.jpg";
