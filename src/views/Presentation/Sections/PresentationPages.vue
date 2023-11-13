@@ -77,5 +77,5 @@ import ExampleCard from "../Components/ExampleCard.vue";
 import MaterialBadge from "../../../components/MaterialBadge.vue";
 
 // images
-import imgSigninCover from "@/assets/img/logo.jpeg";
+import imgSigninCover from "@/assets/img/logo.png";
 </script>

@@ -30,7 +30,7 @@
         data-placement="bottom"
       >
       <img
-          src="../../assets/img/logo.jpeg"
+          src="../../assets/img/logo.png"
           style="height: 30px; width: auto;" 
         />
         Mangalam Easy Services
@@ -48,7 +48,7 @@
         data-placement="bottom"
       >
       <img
-        src="../../assets/img/logo.jpeg"
+        src="../../assets/img/logo.png"
         style="height: 30px; width: auto;" 
       />
       M E S

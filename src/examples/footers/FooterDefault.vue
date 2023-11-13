@@ -47,7 +47,7 @@
 </template>
 
 <script setup>
-import logoDark from "@/assets/img/logo.jpeg";
+import logoDark from "@/assets/img/logo.png";
 defineProps({
   brand: {
     type: Object,
